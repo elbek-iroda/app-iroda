@@ -1,0 +1,77 @@
+body{
+    position: relative;
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: relative;
+    font-size: 7em;
+}
+.oo{
+    width: 100em;
+    height: auto;
+    border-radius: 10em;
+}
+h1:hover{
+    color: darkblue;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    position: relative;
+    font-size: 4em;
+}
+h2:hover{
+    color: rgb(108, 0, 250);
+}
+p{
+    color: rgb(15, 82, 109);
+    font-size: 3em;
+}
+p:hover{
+    color: blue;
+}
+i:hover{
+    color: black;
+}
+table{
+    border: 5px solid black;
+    font-size: 3em;
+}
+table:hover{
+    color: blue;
+}
+img{
+    border-radius: 0.5em;
+    width: 5em;
+    height: auto;
+}
+h3{
+    font-size: 4em;
+    text-align: center;
+}
+h3:hover{
+    color: maroon;
+}
+.aa {
+    border-radius: 1em;
+    width: 38.9em;
+    height: auto;
+}
+.bb {
+    border-radius: 1em;
+    width: 38.9em;
+    height: auto;
+}
+.cc {
+    border-radius: 1em;
+    width: 38.9em;
+    height: auto;
+}
+video{
+    border-radius: 5em;
+}
+.www{
+    width: 23.2em;
+    height: auto;
+}
